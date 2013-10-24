@@ -20,7 +20,7 @@ ruleset HelloWorldApp {
 
     pre {
      my_html = <<
-      <h5>Hello, World!</h5>
+      <h5>Hello, Cruel World!</h5>
      >>;
     }
     {
