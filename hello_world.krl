@@ -27,6 +27,7 @@ ruleset HelloWorldApp {
     SquareTag:inject_styling();
     CloudRain:createLoadPanel("Hello World!", {}, my_html);
     notify("Hello", "Just a test");
+    alert("Foo!!");
     }
 
   }
